@@ -1,0 +1,45 @@
+
+
+...............................................................................................
+
+#StudentName: Lingxiao Li
+#ID: X291657
+#Email: raymondlx@foxmail.com
+
+# The LibrarySystem.java contains the main(), thus just fire it to run.
+# There you will see the interface below:
+...................................Welcome to Library System...................................
+Please input your ID:
+2345678
+Please input your PIN:
+2345
+Please input the date:
+2017/3/10
+Successfully log in..
+Please choose the your next step:(Input the number as showed below)
+
+(1)Search for books
+(2)Display book information
+(3)Check Out a book
+(4)Recall a book
+(5)Wait for a book
+(6)Return a book
+(7)Show all user information
+...............................................................................................
+
+#Here input a NUMBER to select whcih function to run.
+
+#After completing one method you will see:
+
+Do you want to Log out? Y/N
+
+#Here into N or Y to continue or log-out(case insensitive)
+#Then you could continue use the system
+
+#Notice:
+#The system will updates the information in the database after you use Check-Out, Recall and Return
+#Thus it will print out the newest information about this book in the system, i.e. it will
+#show you the infor after your action. I believe that will make sense.
+
+#At last, wish you all the best and thank you so much :)
+
